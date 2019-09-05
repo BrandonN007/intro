@@ -1,0 +1,21 @@
+DECIDE IF A GIVEN NUMBER IS EVEN OR ODD
+Step 1: Get the value of a number
+Step 2: To verify if the number is even or odd, divide it by 2
+Step 3: If the previous step gave you a full number(a number without a decimal), then the number from STEP 1 is even
+Step 4: else
+Step 5: If STEP 2 gave you a remainder(a number with a decimal), then the number from STEP 1 is odd
+Step 6: Print the characteristic of your number from STEP 1; Even or Odd?
+
+
+Ex: 
+Step 1: Get the value of a number
+        7
+Step 2: To verify if a number is even, divide it by 2
+        7/2 = 3.5
+Step 3: If the previous step gave you a full number(a number without a decimal), then the number from STEP 1 is even
+        3.5 is not a full number --> not even
+Step 4: else
+Step 5: If STEP 2 gave you a remainder(a number with a decimal), then the number from STEP 1 is odd
+        3.5 has a remainder --> odd
+Step 6: Print the characteristic of your number from STEP 1; Even or Odd?
+        7 is an odd number
