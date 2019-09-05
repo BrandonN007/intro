@@ -1,0 +1,14 @@
+CONVERT A GIVEN NUMBER FROM CELSIUS TO FAHRENHEIT
+Step 1: Get the value of the temperature in Celsius
+Step 2: Given the euqation ((°C * 9/5) + 32 = °F), replace the first variable(0°C) with the temperature(in Celsius) that you have
+Step 3: Solve the equation to find the final temperature in Fahrenheit
+Step 4: Print the value
+
+
+Ex:
+Step 1: Get the value of the temperature in Celsius = (0)
+Step 2: Given the euqation ((0°C * 9/5) + 32 = F°), replace the first variable(0°C) with the temperature(in Celsius) that you have
+        (0°C * 9/5) + 32 = °F
+Step 3: Solve the equation to find the final temperature in Fahrenheit
+        (0°C * 9/5) + 32 = 0°C + 32 = 32°F
+Step 4: Print the value = 0°C --> 32°F
